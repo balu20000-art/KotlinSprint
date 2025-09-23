@@ -1,7 +1,7 @@
 package org.example.Lesson_2
 
 fun main() {
-    val totalPerson = 4.0
+    val totalPerson = 4
     val score_1 = 3.0
     val score_2 = 4.0
     val score_3 = 3.0
